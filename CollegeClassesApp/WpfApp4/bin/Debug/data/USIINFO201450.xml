@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset  xmlns="http://developer.cognos.com/schemas/xmldata/1/"  xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+<dataset
+    xmlns="http://developer.cognos.com/schemas/xmldata/1/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://developer.cognos.com/schemas/xmldata/1/ xmldata.xsd"
+>
+-->
+    <metadata>
+          <item name="TERM" type="xs:string" length="128"/>
+          <item name="SUBJ" type="xs:string" length="128"/>
+          <item name="SUBJECT_DESC" type="xs:string" length="512"/>
+          <item name="NUMB" type="xs:string" length="506"/>
+          <item name="SECTION" type="xs:string" length="506"/>
+          <item name="TITLE" type="xs:string" length="4082"/>
+          <item name="INSTR_FNAME" type="xs:string" length="122"/>
+          <item name="INSTR_LNAME" type="xs:string" length="122"/>
+          <item name="CRN" type="xs:string" length="12"/>
+          <item name="CAMPUS" type="xs:string" length="512"/>
+          <item name="BUILDING" type="xs:string" length="128"/>
+          <item name="ROOM" type="xs:string" length="22"/>
+          <item name="MON" type="xs:string" length="4"/>
+          <item name="TUE" type="xs:string" length="4"/>
+          <item name="WED" type="xs:string" length="4"/>
+          <item name="THUR" type="xs:string" length="4"/>
+          <item name="FRI" type="xs:string" length="4"/>
+          <item name="SAT" type="xs:string" length="4"/>
+          <item name="SUN" type="xs:string" length="4"/>
+          <item name="BEGIN_TIME" type="xs:string" length="10"/>
+          <item name="END_TIME" type="xs:string" length="10"/>
+          <item name="START_DATE" type="xs:dateTime"/>
+          <item name="END_DATE" type="xs:dateTime"/>
+    </metadata>
+    <data>
+        <row>
+            <value>201450</value>
+            <value>ACCT</value>
+            <value>Accounting</value>
+            <value>201</value>
+            <value>NO1</value>
+            <value>Accounting Princ I</value>
+            <value>Jamie</value>
+            <value>Seitz</value>
+            <value>40035</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>ACCT</value>
+            <value>Accounting</value>
+            <value>202</value>
+            <value>NO1</value>
+            <value>Accounting Princ II</value>
+            <value>Jeanette</value>
+            <value>Maier-Lytle</value>
+            <value>40036</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>ACCT</value>
+            <value>Accounting</value>
+            <value>304</value>
+            <value>501</value>
+            <value>Intermed Accounting II</value>
+            <value>Francisco</value>
+            <value>Villanueva</value>
+            <value>40037</value>
+            <value>Main</value>
+            <value>BE</value>
+            <value>0030</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>1300</value>
+            <value>1630</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>ACCT</value>
+            <value>Accounting</value>
+            <value>401</value>
+            <value>NO1</value>
+            <value>Advanced Accounting</value>
+            <value>Jamie</value>
+            <value>Seitz</value>
+            <value>40038</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>ANTH</value>
+            <value>Anthropology</value>
+            <value>353</value>
+            <value>501</value>
+            <value>Human Origins</value>
+            <value>Amanuel</value>
+            <value>Beyin</value>
+            <value>40012</value>
+            <value>Main</value>
+            <value>RL</value>
+            <value>0009</value>
+            <value>M</value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value>F</value>
+            <value> </value>
+            <value> </value>
+            <value>1200</value>
+            <value>1410</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>BCOM</value>
+            <value>Business Communication</value>
+            <value>231</value>
+            <value>NO1</value>
+            <value>Business Communication</value>
+            <value>Jennifer</value>
+            <value>Gilmore</value>
+            <value>40039</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>BCOM</value>
+            <value>Business Communication</value>
+            <value>401</value>
+            <value>501</value>
+            <value>Career Plan&amp;Prof Devel</value>
+            <value>Julie</value>
+            <value>Brauser</value>
+            <value>40040</value>
+            <value>Main</value>
+            <value>BE</value>
+            <value>3025</value>
+            <value> </value>
+            <value>T</value>
+            <value> </value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>1800</value>
+            <value>2000</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>BIOL</value>
+            <value>Biology</value>
+            <value>334</value>
+            <value>501</value>
+            <value>Cell Biology</value>
+            <value>Richard</value>
+            <value>Bennett</value>
+            <value>40028</value>
+            <value>Main</value>
+            <value>SC</value>
+            <value>2243</value>
+            <value>M</value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value>F</value>
+            <value> </value>
+            <value> </value>
+            <value>0800</value>
+            <value>1010</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>BIOL</value>
+            <value>Biology</value>
+            <value>371</value>
+            <value>501</value>
+            <value>Tropical Biology</value>
+            <value>Robert</value>
+            <value>Summers</value>
+            <value>40029</value>
+            <value>Main</value>
+            <value>AR</value>
+            <value>OFF-C</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>BIOL</value>
+            <value>Biology</value>
+            <value>371</value>
+            <value>501</value>
+            <value>Tropical Biology</value>
+            <value>Robert</value>
+            <value>Summers</value>
+            <value>40029</value>
+            <value>Main</value>
+            <value>ED</value>
+            <value>2105</value>
+            <value>M</value>
+            <value>T</value>
+            <value>W</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>0800</value>
+            <value>1130</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>BLAW</value>
+            <value>Business Law</value>
+            <value>263</value>
+            <value>NO1</value>
+            <value>Legal Env of Business</value>
+            <value>Leslie</value>
+            <value>Nunn</value>
+            <value>40041</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>CIS</value>
+            <value>Computer Information Systems</value>
+            <value>111</value>
+            <value>501</value>
+            <value>Intro to Comp Info Systems</value>
+            <value>TBD</value>
+            <value>TBD</value>
+            <value>40042</value>
+            <value>Main</value>
+            <value>BE</value>
+            <value>1034</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>0900</value>
+            <value>1230</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>CIS</value>
+            <value>Computer Information Systems</value>
+            <value>141</value>
+            <value>NO1</value>
+            <value>Computer Skills/non-Bus majrs</value>
+            <value>James</value>
+            <value>Powers</value>
+            <value>40043</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>CIS</value>
+            <value>Computer Information Systems</value>
+            <value>151</value>
+            <value>NO1</value>
+            <value>Computer Appl. in Bus.</value>
+            <value>James</value>
+            <value>Powers</value>
+            <value>40044</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>CIS</value>
+            <value>Computer Information Systems</value>
+            <value>261</value>
+            <value>501</value>
+            <value>Adv Micro Applicat</value>
+            <value>TBD</value>
+            <value>TBD</value>
+            <value>40045</value>
+            <value>Main</value>
+            <value>BE</value>
+            <value>1033</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>0900</value>
+            <value>1230</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>CIS</value>
+            <value>Computer Information Systems</value>
+            <value>305</value>
+            <value>NO1</value>
+            <value>Mngt Info Systems</value>
+            <value>Abbas</value>
+            <value>Foroughi</value>
+            <value>40046</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>CRIM</value>
+            <value>Criminal Justice Studies</value>
+            <value>370</value>
+            <value>501</value>
+            <value>Sem:Cyber Crime</value>
+            <value>Sheri</value>
+            <value>Keenan</value>
+            <value>40015</value>
+            <value>Main</value>
+            <value>LA</value>
+            <value>2003</value>
+            <value>M</value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value>F</value>
+            <value> </value>
+            <value> </value>
+            <value>1200</value>
+            <value>1410</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>CRIM</value>
+            <value>Criminal Justice Studies</value>
+            <value>499</value>
+            <value>501</value>
+            <value>Internship-Criminal Justice</value>
+            <value>Todd</value>
+            <value>Schroer</value>
+            <value>40016</value>
+            <value>Main</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>CS</value>
+            <value>Computer Science</value>
+            <value>358</value>
+            <value>501</value>
+            <value>Intermediate OOP Using C#</value>
+            <value>Richard</value>
+            <value>Anderson</value>
+            <value>40063</value>
+            <value>Main</value>
+            <value>BE</value>
+            <value>1034</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>1300</value>
+            <value>1630</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>DSCI</value>
+            <value>Decision Sciences</value>
+            <value>445</value>
+            <value>NO1</value>
+            <value>Operations Management</value>
+            <value>Gary</value>
+            <value>Black</value>
+            <value>40047</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>ECON</value>
+            <value>Economics</value>
+            <value>175</value>
+            <value>NO1</value>
+            <value>Fundamtls of Econ</value>
+            <value>Curtis</value>
+            <value>Price</value>
+            <value>40048</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>ECON</value>
+            <value>Economics</value>
+            <value>208</value>
+            <value>NO1</value>
+            <value>Microeconomics</value>
+            <value>Curtis</value>
+            <value>Price</value>
+            <value>40049</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>ECON</value>
+            <value>Economics</value>
+            <value>209</value>
+            <value>NO1</value>
+            <value>Macroeconomics</value>
+            <value>Curtis</value>
+            <value>Price</value>
+            <value>40050</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>ECON</value>
+            <value>Economics</value>
+            <value>241</value>
+            <value>NO1</value>
+            <value>Global Econ Issues</value>
+            <value>Sudesh</value>
+            <value>Mujumdar</value>
+            <value>40051</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>ECON</value>
+            <value>Economics</value>
+            <value>265</value>
+            <value>NO1</value>
+            <value>Elem Statistics</value>
+            <value>Gary</value>
+            <value>Black</value>
+            <value>40052</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>EDUC</value>
+            <value>Education</value>
+            <value>439</value>
+            <value>501</value>
+            <value>Classrm Mngt Data-Based Dec</value>
+            <value>Vella</value>
+            <value>Goebel</value>
+            <value>40020</value>
+            <value>Main</value>
+            <value>ED</value>
+            <value>3145</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>1300</value>
+            <value>1630</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>FIN</value>
+            <value>Finance</value>
+            <value>101</value>
+            <value>NO1</value>
+            <value>Money Skills</value>
+            <value>Timothy</value>
+            <value>Mahoney</value>
+            <value>40053</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>FIN</value>
+            <value>Finance</value>
+            <value>305</value>
+            <value>NO1</value>
+            <value>Business Finance</value>
+            <value>Manfen</value>
+            <value>Chen</value>
+            <value>40054</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>GEOL</value>
+            <value>Geology</value>
+            <value>115</value>
+            <value>501</value>
+            <value>Landscapes &amp; Geol of N. Amer</value>
+            <value>Joseph</value>
+            <value>DiPietro</value>
+            <value>40059</value>
+            <value>Main</value>
+            <value>ED</value>
+            <value>2113</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>1200</value>
+            <value>1530</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>HIST</value>
+            <value>History</value>
+            <value>101</value>
+            <value>NO1</value>
+            <value>U.S. to 1865</value>
+            <value>Kristalyn</value>
+            <value>Shefveland</value>
+            <value>40061</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>HIST</value>
+            <value>History</value>
+            <value>102</value>
+            <value>NO1</value>
+            <value>U.S. since 1865</value>
+            <value>Lyn</value>
+            <value>Franks</value>
+            <value>40005</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>HIST</value>
+            <value>History</value>
+            <value>102</value>
+            <value>NO2</value>
+            <value>U.S. since 1865</value>
+            <value>Jessica</value>
+            <value>Arnett</value>
+            <value>40010</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>HIST</value>
+            <value>History</value>
+            <value>112</value>
+            <value>NO1</value>
+            <value>World Civ II</value>
+            <value>Jo</value>
+            <value>Olson</value>
+            <value>40060</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>HIST</value>
+            <value>History</value>
+            <value>490</value>
+            <value>501</value>
+            <value>Intern/Spec St-History</value>
+            <value>Denise</value>
+            <value>Lynn</value>
+            <value>40008</value>
+            <value>Main</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>KIN</value>
+            <value>Kinesiology</value>
+            <value>185</value>
+            <value>501</value>
+            <value>Step Aerobics</value>
+            <value>Sandra</value>
+            <value>Davis</value>
+            <value>40026</value>
+            <value>Main</value>
+            <value>FC</value>
+            <value>125</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>1000</value>
+            <value>1115</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>KIN</value>
+            <value>Kinesiology</value>
+            <value>186</value>
+            <value>NC1</value>
+            <value>Well/Fit Appraisal</value>
+            <value>Dustin</value>
+            <value>Murray</value>
+            <value>40024</value>
+            <value>Distance Education</value>
+            <value>PA</value>
+            <value>211</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>1000</value>
+            <value>1100</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>KIN</value>
+            <value>Kinesiology</value>
+            <value>199</value>
+            <value>501</value>
+            <value>Spec Act: Fitness Walking</value>
+            <value>Dustin</value>
+            <value>Murray</value>
+            <value>40025</value>
+            <value>Main</value>
+            <value>PA</value>
+            <value>211</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>0800</value>
+            <value>0915</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>LBST</value>
+            <value>Liberal Studies</value>
+            <value>590</value>
+            <value>501</value>
+            <value>Intrdsc Tpc-First World War</value>
+            <value>Thomas</value>
+            <value>Rodgers</value>
+            <value>40058</value>
+            <value>Main</value>
+            <value>LA</value>
+            <value>2023</value>
+            <value>M</value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value>F</value>
+            <value> </value>
+            <value> </value>
+            <value>1200</value>
+            <value>1410</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>LIBA</value>
+            <value>Liberal Arts</value>
+            <value>497</value>
+            <value>501</value>
+            <value>Capstone:First World War</value>
+            <value>Thomas</value>
+            <value>Rodgers</value>
+            <value>40017</value>
+            <value>Main</value>
+            <value>LA</value>
+            <value>2023</value>
+            <value>M</value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value>F</value>
+            <value> </value>
+            <value> </value>
+            <value>1200</value>
+            <value>1410</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>MATH</value>
+            <value>Mathematics</value>
+            <value>111</value>
+            <value>501</value>
+            <value>College Algebra</value>
+            <value>TBD</value>
+            <value>TBD</value>
+            <value>40018</value>
+            <value>Main</value>
+            <value>SC</value>
+            <value>3224</value>
+            <value>M</value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value>F</value>
+            <value> </value>
+            <value> </value>
+            <value>1000</value>
+            <value>1250</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>MATH</value>
+            <value>Mathematics</value>
+            <value>215</value>
+            <value>501</value>
+            <value>Survey of Calculus</value>
+            <value>TBD</value>
+            <value>TBD</value>
+            <value>40019</value>
+            <value>Main</value>
+            <value>HP</value>
+            <value>1078</value>
+            <value>M</value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value>F</value>
+            <value> </value>
+            <value> </value>
+            <value>0900</value>
+            <value>1115</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>MKTG</value>
+            <value>Marketing</value>
+            <value>305</value>
+            <value>NO1</value>
+            <value>Principles Marketing</value>
+            <value>Chad</value>
+            <value>Milewicz</value>
+            <value>40056</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>MKTG</value>
+            <value>Marketing</value>
+            <value>438</value>
+            <value>NO1</value>
+            <value>Marketing Research</value>
+            <value>Chad</value>
+            <value>Milewicz</value>
+            <value>40057</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>MNGT</value>
+            <value>Management</value>
+            <value>452</value>
+            <value>NO1</value>
+            <value>Policy Formulation Adm</value>
+            <value>Dane</value>
+            <value>Partridge</value>
+            <value>40055</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>OTA</value>
+            <value>Occupational Therapy Assistant</value>
+            <value>298</value>
+            <value>501</value>
+            <value>Practicum Seminar B</value>
+            <value>Jennifer</value>
+            <value>Nunning</value>
+            <value>40033</value>
+            <value>Main</value>
+            <value>AR</value>
+            <value>OFF-C</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>OTA</value>
+            <value>Occupational Therapy Assistant</value>
+            <value>298</value>
+            <value>501</value>
+            <value>Practicum Seminar B</value>
+            <value>Jennifer</value>
+            <value>Nunning</value>
+            <value>40033</value>
+            <value>Main</value>
+            <value>HP</value>
+            <value>2111</value>
+            <value>M</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>0800</value>
+            <value>1700</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>OTA</value>
+            <value>Occupational Therapy Assistant</value>
+            <value>350</value>
+            <value>NC1</value>
+            <value>Independent Study</value>
+            <value>Mary</value>
+            <value>Arvin</value>
+            <value>40031</value>
+            <value>Distance Education</value>
+            <value>HP</value>
+            <value>2111</value>
+            <value>M</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>0800</value>
+            <value>0850</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>OTA</value>
+            <value>Occupational Therapy Assistant</value>
+            <value>350</value>
+            <value>NC2</value>
+            <value>Independent Study</value>
+            <value>Mary</value>
+            <value>Arvin</value>
+            <value>40032</value>
+            <value>Distance Education</value>
+            <value>HP</value>
+            <value>2111</value>
+            <value>M</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>0900</value>
+            <value>1050</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>PA</value>
+            <value>Public Administration</value>
+            <value>684</value>
+            <value>501</value>
+            <value>Grantwriting for Nonprofit Org</value>
+            <value>Mary</value>
+            <value>Morris</value>
+            <value>40023</value>
+            <value>Main</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>PHIL</value>
+            <value>Philosophy</value>
+            <value>201</value>
+            <value>NO1</value>
+            <value>Intro to Ethics</value>
+            <value>John</value>
+            <value>Radez</value>
+            <value>40002</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>POLS</value>
+            <value>Political Science</value>
+            <value>102</value>
+            <value>NO1</value>
+            <value>Intr American Polit</value>
+            <value>Nicholas</value>
+            <value>LaRowe</value>
+            <value>40021</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>POLS</value>
+            <value>Political Science</value>
+            <value>208</value>
+            <value>NO1</value>
+            <value>Law,Courts,&amp;Justice</value>
+            <value>Nicholas</value>
+            <value>LaRowe</value>
+            <value>40022</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>PSY</value>
+            <value>Psychology</value>
+            <value>201</value>
+            <value>NO1</value>
+            <value>Intro to Psychology</value>
+            <value>Amber</value>
+            <value>Hughes</value>
+            <value>40003</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>PSY</value>
+            <value>Psychology</value>
+            <value>261</value>
+            <value>NO1</value>
+            <value>Lifespan Develop Psy</value>
+            <value>Andrea</value>
+            <value>Gere</value>
+            <value>40004</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>REST</value>
+            <value>Respiratory Therapy</value>
+            <value>206</value>
+            <value>501</value>
+            <value>Resp Ther Procedur VI</value>
+            <value>Wesley</value>
+            <value>Phy</value>
+            <value>40062</value>
+            <value>Main</value>
+            <value>HP</value>
+            <value>2109</value>
+            <value> </value>
+            <value>T</value>
+            <value>W</value>
+            <value>R</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>0900</value>
+            <value>1230</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>RTV</value>
+            <value>Radio and Television</value>
+            <value>489</value>
+            <value>501</value>
+            <value>Intern-Radio-TV</value>
+            <value>David</value>
+            <value>Black</value>
+            <value>40007</value>
+            <value>Main</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>SOC</value>
+            <value>Sociology</value>
+            <value>121</value>
+            <value>NO1</value>
+            <value>Principles Sociology</value>
+            <value>Niharika</value>
+            <value>Banerjea</value>
+            <value>40013</value>
+            <value>Distance Education</value>
+            <value>WEB</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+        <row>
+            <value>201450</value>
+            <value>SOC</value>
+            <value>Sociology</value>
+            <value>499</value>
+            <value>501</value>
+            <value>Internship-Sociology</value>
+            <value>Todd</value>
+            <value>Schroer</value>
+            <value>40014</value>
+            <value>Main</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>9999</value>
+            <value>9999</value>
+            <value>2014-07-21T00:00:00</value>
+            <value>2014-08-15T00:00:00</value>
+        </row>
+    </data>
+</dataset>
